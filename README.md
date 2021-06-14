@@ -1,4 +1,4 @@
-# Titanic - Machine Learning Kaggle Competition
+# Titanic - Machine Learning Kaggle Competition 🚢
 ---
 
 
