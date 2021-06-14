@@ -4,7 +4,7 @@
 
 **Descrição:**
 \
-Nesse notebook será analisado o datast do [Titanic](https://www.kaggle.com/c/titanic/overview). O dataset é formado pelos seguintes dados:
+Nesse notebook será analisado o dataset do [Titanic](https://www.kaggle.com/c/titanic/overview), referente a uma competição de Machine Learning do site Kaggle. O dataset é formado pelos seguintes dados:
 
 |                Coluna                | Descrição |
 |:------------------------------------:|:---------:|
